@@ -6,20 +6,20 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Tereza Cristina Rodrigues Silva
+- Matricula: 900751
+- Proposta de projeto escolhida: Pessoas e Produções
+- Breve descrição sobre seu projeto: O meu projeto é um site de resumo dos filmes do Studio Ghibli, onde vai mostrar todos os filmes lançados.
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+![Print GET](./public/assets/img/Testes/GET.png)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+![Print POST](./public/assets/img/Testes/POST.png)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+![Print PUT](./public/assets/img/Testes/PUT.png)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![Print DELETE](./public/assets/img/Testes/DELETE.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
@@ -61,7 +61,7 @@ Para iniciar o JSONServer e acessar os arquivos do seu site, siga os seguintes p
    1. **Site Front End**: abra um navegador e acesse o seu site pela seguinte URL: 
       [http://localhost:3000]()
    2. **Site Back End**: abra o navegador e acesse as informações da estrutura de usuários por meio da API REST do JSONServer a partir da seguinte URL: 
-      [http://localhost:3000/usuarios](http://localhost:3000/usuarios)
+      [http://localhost:3000/filmes](http://localhost:3000/filmes)
 
 Ao criar suas estruturas de dados no arquivo db.json, você poderá obter estes dados através do endereço: http://localhost:3000/SUA_ESTRUTURA, tal qual como foi feito com a estrutura de usuários. **IMPORTANTE**: Ao editar o arquivo db.json, é necessário parar e reiniciar o JSONServer.
 
