@@ -7,15 +7,15 @@
       "categoria": "Fantasia, Ficção Científica, Aventura.",
       "autor": "Hayao Miyazaki",
       "data": "11-03-1984",
-      "imagem": "img/nausicaa.png",
+      "imagem": "./assets/img/nausicaa.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/nausicaa_sec1.jpg",
-        "img/nausicaa_sec2.jpg",
-        "img/nausicaa_sec3.jpg",
-        "img/nausicaa_sec4.jpg"
+        "./assets/img/nausicaa_sec1.jpg",
+        "./assets/img/nausicaa_sec2.jpg",
+        "./assets/img/nausicaa_sec3.jpg",
+        "./assets/img/nausicaa_sec4.jpg"
       ]
     },
     {
@@ -25,15 +25,15 @@
       "categoria": "Aventura, Fantasia",
       "autor": "Hayao Miyazaki",
       "data": "02-08-1986",
-      "imagem": "img/ocastelonoceu.png",
+      "imagem": "./assets/img/ocastelonoceu.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/ocastelonoceu_sec1.jpg",
-        "img/ocastelonoceu_sec2.jpg",
-        "img/ocastelonoceu_sec3.jpg",
-        "img/ocastelonoceu_sec4.jpg"
+        "./assets/img/ocastelonoceu_sec1.jpg",
+        "./assets/img/ocastelonoceu_sec2.jpg",
+        "./assets/img/ocastelonoceu_sec3.jpg",
+        "./assets/img/ocastelonoceu_sec4.jpg"
       ]
     },
     {
@@ -43,15 +43,15 @@
       "categoria": "Animação, Fantasia, Família",
       "autor": "Hayao Miyazaki",
       "data": "16-04-1988",
-      "imagem": "img/meuamigototoro.jpg",
-      "imagemCarrossel": "img/meuamigototoro_carrossel.jpg",
+      "imagem": "./assets/img/meuamigototoro.jpg",
+      "imagemCarrossel": "./assets/img/meuamigototoro_carrossel.jpg",
       "destaque": true,
       "descricaoCurta": "Uma história mágica e leve sobre amizade, infância e a conexão com a natureza.",
       "fotosSecundarias": [
-        "img/totoro_sec1.jpg",
-        "img/totoro_sec2.jpg",
-        "img/totoro_sec3.jpg",
-        "img/totoro_sec4.jpg"
+        "./assets/img/totoro_sec1.jpg",
+        "./assets/img/totoro_sec2.jpg",
+        "./assets/img/totoro_sec3.jpg",
+        "./assets/img/totoro_sec4.jpg"
       ]
     },
     {
@@ -61,15 +61,15 @@
       "categoria": "Drama, Guerra",
       "autor": "Isao Takahata",
       "data": "16-04-1988",
-      "imagem": "img/tumulodosvagalumes.jpg",
+      "imagem": "./assets/img/tumulodosvagalumes.jpg",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/vagalumes_sec1.jpg",
-        "img/vagalumes_sec2.jpg",
-        "img/vagalumes_sec3.jpg",
-        "img/vagalumes_sec4.jpg"
+        "./assets/img/vagalumes_sec1.jpg",
+        "./assets/img/vagalumes_sec2.jpg",
+        "./assets/img/vagalumes_sec3.jpg",
+        "./assets/img/vagalumes_sec4.jpg"
       ]
     },
     {
@@ -79,15 +79,15 @@
       "categoria": "Fantasia, Aventura",
       "autor": "Hayao Miyazaki",
       "data": "29-07-1989",
-      "imagem": "img/osservicosdeentregadakiki.png",
+      "imagem": "./assets/img/osservicosdeentregadakiki.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/kiki_sec1.jpg",
-        "img/kiki_sec2.jpg",
-        "img/kiki_sec3.jpg",
-        "img/kiki_sec4.jpg"
+        "./assets/img/kiki_sec1.jpg",
+        "./assets/img/kiki_sec2.jpg",
+        "./assets/img/kiki_sec3.jpg",
+        "./assets/img/kiki_sec4.jpg"
       ]
     },
     {
@@ -97,15 +97,15 @@
       "categoria": "Drama, Romance",
       "autor": "Isao Takahata",
       "data": "20-07-1991",
-      "imagem": "img/memoriasdeontem.png",
+      "imagem": "./assets/img/memoriasdeontem.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/memorias_sec1.jpg",
-        "img/memorias_sec2.jpg",
-        "img/memorias_sec3.jpg",
-        "img/memorias_sec4.jpg"
+        "./assets/img/memorias_sec1.jpg",
+        "./assets/img/memorias_sec2.jpg",
+        "./assets/img/memorias_sec3.jpg",
+        "./assets/img/memorias_sec4.jpg"
       ]
     },
     {
@@ -115,15 +115,15 @@
       "categoria": "Aventura, Comédia",
       "autor": "Hayao Miyazaki",
       "data": "18-07-1992",
-      "imagem": "img/porcorosso.png",
+      "imagem": "./assets/img/porcorosso.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/porcorosso_sec1.jpg",
-        "img/porcorosso_sec2.jpg",
-        "img/porcorosso_sec3.jpg",
-        "img/porcorosso_sec4.jpg"
+        "./assets/img/porcorosso_sec1.jpg",
+        "./assets/img/porcorosso_sec2.jpg",
+        "./assets/img/porcorosso_sec3.jpg",
+        "./assets/img/porcorosso_sec4.jpg"
       ]
     },
     {
@@ -133,15 +133,15 @@
       "categoria": "Drama, Romance",
       "autor": "Tomomi Mochizuki",
       "data": "05-05-1993",
-      "imagem": "img/eupossoouvirooceano.png",
+      "imagem": "./assets/img/eupossoouvirooceano.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/oceano_sec1.jpg",
-        "img/oceano_sec2.jpg",
-        "img/oceano_sec3.jpg",
-        "img/oceano_sec4.jpg"
+        "./assets/img/oceano_sec1.jpg",
+        "./assets/img/oceano_sec2.jpg",
+        "./assets/img/oceano_sec3.jpg",
+        "./assets/img/oceano_sec4.jpg"
       ]
     },
     {
@@ -151,15 +151,15 @@
       "categoria": "Fantasia, Comédia",
       "autor": "Isao Takahata",
       "data": "16-07-1994",
-      "imagem": "img/pompoko.png",
+      "imagem": "./assets/img/pompoko.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/pompoko_sec1.jpg",
-        "img/pompoko_sec2.jpg",
-        "img/pompoko_sec3.jpg",
-        "img/pompoko_sec4.jpg"
+        "./assets/img/pompoko_sec1.jpg",
+        "./assets/img/pompoko_sec2.jpg",
+        "./assets/img/pompoko_sec3.jpg",
+        "./assets/img/pompoko_sec4.jpg"
       ]
     },
     {
@@ -169,15 +169,15 @@
       "categoria": "Drama, Romance",
       "autor": "Yoshifumi Kondō",
       "data": "15-07-1995",
-      "imagem": "img/sussurrosdocoracao.png",
+      "imagem": "./assets/img/sussurrosdocoracao.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/sussurros_sec1.jpg",
-        "img/sussurros_sec2.jpg",
-        "img/sussurros_sec3.jpg",
-        "img/sussurros_sec4.jpg"
+        "./assets/img/sussurros_sec1.jpg",
+        "./assets/img/sussurros_sec2.jpg",
+        "./assets/img/sussurros_sec3.jpg",
+        "./assets/img/sussurros_sec4.jpg"
       ]
     },
     {
@@ -187,15 +187,15 @@
       "categoria": "Fantasia, Aventura, Drama",
       "autor": "Hayao Miyazaki",
       "data": "12-07-1997",
-      "imagem": "img/princesamononoke.jpg",
-      "imagemCarrossel": "img/princesamononoke_carrossel.jpg",
+      "imagem": "./assets/img/princesamononoke.jpg",
+      "imagemCarrossel": "./assets/img/princesamononoke_carrossel.jpg",
       "destaque": true,
       "descricaoCurta": "Uma aventura épica que mistura ação, natureza e espiritualidade, explorando o conflito entre humanidade e meio ambiente.",
       "fotosSecundarias": [
-        "img/mononoke_sec1.jpg",
-        "img/mononoke_sec2.jpg",
-        "img/mononoke_sec3.jpg",
-        "img/mononoke_sec4.jpg"
+        "./assets/img/mononoke_sec1.jpg",
+        "./assets/img/mononoke_sec2.jpg",
+        "./assets/img/mononoke_sec3.jpg",
+        "./assets/img/mononoke_sec4.jpg"
       ]
     },
     {
@@ -205,15 +205,15 @@
       "categoria": "Comédia, Slice of Life",
       "autor": "Isao Takahata",
       "data": "17-07-1999",
-      "imagem": "img/meusvizinhoyamada.png",
+      "imagem": "./assets/img/meusvizinhoyamada.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/yamadas_sec1.jpg",
-        "img/yamadas_sec2.jpg",
-        "img/yamadas_sec3.jpg",
-        "img/yamadas_sec4.jpg"
+        "./assets/img/yamadas_sec1.jpg",
+        "./assets/img/yamadas_sec2.jpg",
+        "./assets/img/yamadas_sec3.jpg",
+        "./assets/img/yamadas_sec4.jpg"
       ]
     },
     {
@@ -223,15 +223,15 @@
       "categoria": "Fantasia, Aventura",
       "autor": "Hayao Miyazaki",
       "data": "20-07-2001",
-      "imagem": "img/aviagemdechihiro.jpg",
-      "imagemCarrossel": "img/aviagemdechihiro_carrossel.jpg",
+      "imagem": "./assets/img/aviagemdechihiro.jpg",
+      "imagemCarrossel": "./assets/img/aviagemdechihiro_carrossel.jpg",
       "destaque": true,
       "descricaoCurta": "Uma jornada mágica de autodescoberta e coragem em um mundo fantástico.",
       "fotosSecundarias": [
-        "img/chihiro_sec1.jpg",
-        "img/chihiro_sec2.jpg",
-        "img/chihiro_sec3.jpg",
-        "img/chihiro_sec4.jpg"
+        "./assets/img/chihiro_sec1.jpg",
+        "./assets/img/chihiro_sec2.jpg",
+        "./assets/img/chihiro_sec3.jpg",
+        "./assets/img/chihiro_sec4.jpg"
       ]
     },
     {
@@ -241,15 +241,15 @@
       "categoria": "Fantasia, Aventura",
       "autor": "Hiroyuki Morita",
       "data": "19-07-2002",
-      "imagem": "img/oreinodosgatos.png",
+      "imagem": "./assets/img/oreinodosgatos.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/gatos_sec1.jpg",
-        "img/gatos_sec2.jpg",
-        "img/gatos_sec3.jpg",
-        "img/gatos_sec4.jpg"
+        "./assets/img/gatos_sec1.jpg",
+        "./assets/img/gatos_sec2.jpg",
+        "./assets/img/gatos_sec3.jpg",
+        "./assets/img/gatos_sec4.jpg"
       ]
     },
     {
@@ -259,15 +259,15 @@
       "categoria": "Fantasia, Aventura",
       "autor": "Hayao Miyazaki",
       "data": "20-11-2004",
-      "imagem": "img/ocasteloanimado.jpg",
+      "imagem": "./assets/img/ocasteloanimado.jpg",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/ocasteloanimado_sec1.jpg",
-        "img/ocasteloanimado_sec2.jpg",
-        "img/ocasteloanimado_sec3.jpg",
-        "img/ocasteloanimado_sec4.jpg"
+        "./assets/img/ocasteloanimado_sec1.jpg",
+        "./assets/img/ocasteloanimado_sec2.jpg",
+        "./assets/img/ocasteloanimado_sec3.jpg",
+        "./assets/img/ocasteloanimado_sec4.jpg"
       ]
     },
     {
@@ -277,15 +277,15 @@
       "categoria": "Fantasia, Aventura",
       "autor": "Gorō Miyazaki",
       "data": "29-07-2006",
-      "imagem": "img/contosdeterramar.png",
+      "imagem": "./assets/img/contosdeterramar.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/terramar_sec1.jpg",
-        "img/terramar_sec2.jpg",
-        "img/terramar_sec3.jpg",
-        "img/terramar_sec4.jpg"
+        "./assets/img/terramar_sec1.jpg",
+        "./assets/img/terramar_sec2.jpg",
+        "./assets/img/terramar_sec3.jpg",
+        "./assets/img/terramar_sec4.jpg"
       ]
     },
     {
@@ -295,15 +295,15 @@
       "categoria": "Fantasia, Aventura",
       "autor": "Hayao Miyazaki",
       "data": "19-07-2008",
-      "imagem": "img/ponyo.png",
-      "imagemCarrossel": "img/ponyo_carrossel.jpg",
+      "imagem": "./assets/img/ponyo.png",
+      "imagemCarrossel": "./assets/img/ponyo_carrossel.jpg",
       "destaque": true,
       "descricaoCurta": "Uma aventura mágica e divertida sobre coragem, amizade e o poder da imaginação.",
       "fotosSecundarias": [
-        "img/ponyo_sec1.jpg",
-        "img/ponyo_sec2.jpg",
-        "img/ponyo_sec3.jpg",
-        "img/ponyo_sec4.jpg"
+        "./assets/img/ponyo_sec1.jpg",
+        "./assets/img/ponyo_sec2.jpg",
+        "./assets/img/ponyo_sec3.jpg",
+        "./assets/img/ponyo_sec4.jpg"
       ]
     },
     {
@@ -313,15 +313,15 @@
       "categoria": "Fantasia, Drama",
       "autor": "Hiromasa Yonebayashi",
       "data": "17-07-2010",
-      "imagem": "img/omundodospequeninos.png",
+      "imagem": "./assets/img/omundodospequeninos.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/pequeninos_sec1.jpg",
-        "img/pequeninos_sec2.jpg",
-        "img/pequeninos_sec3.jpg",
-        "img/pequeninos_sec4.jpg"
+        "./assets/img/pequeninos_sec1.jpg",
+        "./assets/img/pequeninos_sec2.jpg",
+        "./assets/img/pequeninos_sec3.jpg",
+        "./assets/img/pequeninos_sec4.jpg"
       ]
     },
     {
@@ -331,15 +331,15 @@
       "categoria": "Drama, Romance",
       "autor": "Gorō Miyazaki",
       "data": "16-07-2011",
-      "imagem": "img/dacolinakokuriko.png",
+      "imagem": "./assets/img/dacolinakokuriko.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/kokuriko_sec1.jpg",
-        "img/kokuriko_sec2.jpg",
-        "img/kokuriko_sec3.jpg",
-        "img/kokuriko_sec4.jpg"
+        "./assets/img/kokuriko_sec1.jpg",
+        "./assets/img/kokuriko_sec2.jpg",
+        "./assets/img/kokuriko_sec3.jpg",
+        "./assets/img/kokuriko_sec4.jpg"
       ]
     },
     {
@@ -349,15 +349,15 @@
       "categoria": "Drama, Biografia",
       "autor": "Hayao Miyazaki",
       "data": "20-07-2013",
-      "imagem": "img/vidasaovento.png",
+      "imagem": "./assets/img/vidasaovento.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/vidasaovento_sec1.jpg",
-        "img/vidasaovento_sec2.jpg",
-        "img/vidasaovento_sec3.jpg",
-        "img/vidasaovento_sec4.jpg"
+        "./assets/img/vidasaovento_sec1.jpg",
+        "./assets/img/vidasaovento_sec2.jpg",
+        "./assets/img/vidasaovento_sec3.jpg",
+        "./assets/img/vidasaovento_sec4.jpg"
       ]
     },
     {
@@ -367,15 +367,15 @@
       "categoria": "Fantasia, Drama",
       "autor": "Isao Takahata",
       "data": "23-11-2013",
-      "imagem": "img/kaguya.png",
+      "imagem": "./assets/img/kaguya.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/kaguya_sec1.jpg",
-        "img/kaguya_sec2.jpg",
-        "img/kaguya_sec3.jpg",
-        "img/kaguya_sec4.jpg"
+        "./assets/img/kaguya_sec1.jpg",
+        "./assets/img/kaguya_sec2.jpg",
+        "./assets/img/kaguya_sec3.jpg",
+        "./assets/img/kaguya_sec4.jpg"
       ]
     },
     {
@@ -385,15 +385,15 @@
       "categoria": "Drama, Mistério",
       "autor": "Hiromasa Yonebayashi",
       "data": "19-07-2014",
-      "imagem": "img/marnie.png",
+      "imagem": "./assets/img/marnie.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/marnie_sec1.jpg",
-        "img/marnie_sec2.jpg",
-        "img/marnie_sec3.jpg",
-        "img/marnie_sec4.jpg"
+        "./assets/img/marnie_sec1.jpg",
+        "./assets/img/marnie_sec2.jpg",
+        "./assets/img/marnie_sec3.jpg",
+        "./assets/img/marnie_sec4.jpg"
       ]
     },
     {
@@ -403,15 +403,15 @@
       "categoria": "Fantasia, Comédia",
       "autor": "Gorō Miyazaki",
       "data": "30-12-2020",
-      "imagem": "img/ayaeabruxa.png",
+      "imagem": "./assets/img/ayaeabruxa.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/aya_sec1.jpg",
-        "img/aya_sec2.jpg",
-        "img/aya_sec3.jpg",
-        "img/aya_sec4.jpg"
+        "./assets/img/aya_sec1.jpg",
+        "./assets/img/aya_sec2.jpg",
+        "./assets/img/aya_sec3.jpg",
+        "./assets/img/aya_sec4.jpg"
       ]
     },
     {
@@ -421,15 +421,15 @@
       "categoria": "Fantasia, Aventura",
       "autor": "Hayao Miyazaki",
       "data": "14-07-2023",
-      "imagem": "img/omeninoeagarca.png",
+      "imagem": "./assets/img/omeninoeagarca.png",
       "imagemCarrossel": "",
       "destaque": false,
       "descricaoCurta": "",
       "fotosSecundarias": [
-        "img/garça_sec1.jpg",
-        "img/garça_sec2.jpg",
-        "img/garça_sec3.jpg",
-        "img/garça_sec4.jpg"
+        "./assets/img/garça_sec1.jpg",
+        "./assets/img/garça_sec2.jpg",
+        "./assets/img/garça_sec3.jpg",
+        "./assets/img/garça_sec4.jpg"
       ]
     }
   ]
